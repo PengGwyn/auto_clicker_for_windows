@@ -1,0 +1,10 @@
+G:\VisualStudioProjects\New folder\TwoAutoClicker\bin\Debug\TwoAutoClicker.exe.config
+G:\VisualStudioProjects\New folder\TwoAutoClicker\bin\Debug\TwoAutoClicker.exe
+G:\VisualStudioProjects\New folder\TwoAutoClicker\bin\Debug\TwoAutoClicker.pdb
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.csproj.AssemblyReference.cache
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.Form1.resources
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.Properties.Resources.resources
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.csproj.GenerateResource.cache
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.csproj.CoreCompileInputs.cache
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.exe
+G:\VisualStudioProjects\New folder\TwoAutoClicker\obj\Debug\TwoAutoClicker.pdb
